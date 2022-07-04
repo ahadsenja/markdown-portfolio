@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![ahadsenja](https://ahadsenja.github.io/assets/Portfolio%20Me.png)
